@@ -1,3 +1,5 @@
 Second file...
 
 test add+commit and amend
+
+modified во время существования другой ветки
