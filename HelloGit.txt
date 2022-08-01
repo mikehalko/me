@@ -2,4 +2,5 @@ Hello, Git!123
 user1
 user2
 
-user1: add-feature
+user1: add-feature3
+user2: change add-feature3
