@@ -9,3 +9,4 @@ user1: fix critical bug
 user1: add-feature4
 
 user1: change file in master
+user2: change file in master
