@@ -4,3 +4,5 @@ user2
 
 user1: add-feature3
 user2: change add-feature3
+
+user1: fix critical bug
